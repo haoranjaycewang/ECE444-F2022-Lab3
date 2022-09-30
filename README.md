@@ -5,6 +5,26 @@ This is a modified version of the previous Assignment1 template for use in Lab3
 
 The deployed version can be found at https://lab3-docker.herokuapp.com.
 
+**Activity 2**
+
+![Activity 2 Screenshot 1](screenshots/lab3_sc1.PNG "Activity 2 Screenshot 1")
+
+**Activity 3**
+
+![Activity 3 Screenshot 1](screenshots/lab3_sc2.jpg "Activity 3 Screenshot 1")
+
+**Activity 4**
+
+![Activity 4 Screenshot 1](screenshots/lab3_sc3.jpg "Activity 4 Screenshot 1")
+
+![Activity 4 Screenshot 2](screenshots/lab3_sc4.jpg "Activity 4 Screenshot 2")
+
+
+![Activity 4 Screenshot 3](screenshots/lab3_sc5.jpg "Activity 4 Screenshot 3")
+
+
+
+
 ## Changes
 + Removed hardcodes of backend urls.
 + Removed hardcodes of database, and replace the database with dummy static data.
